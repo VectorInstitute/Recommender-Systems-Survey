@@ -58,7 +58,8 @@ Key papers from our survey:
 - **Deep Learning**: 
 - **Graph-based RS**:
 
-Explore the **[Complete List](#)** of referenced works.
+Explore the **[Complete List](https://arxiv.org/pdf/2407.13699)(#)** of referenced works.
+
 
 ---
 
