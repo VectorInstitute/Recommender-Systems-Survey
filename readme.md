@@ -8,7 +8,8 @@ This repository is dedicated to the continuous exploration and dissemination of 
 ![image](https://github.com/user-attachments/assets/3111db0f-1aa9-49f3-ad4e-68bc57668853)
 
 ## 📄 **Paper Overview**
-- **Authors**: Shaina Raza, Mizanur Rahman, Safiullah Kamawal, Armin Toroghi, Ananya Raval, Farshad Navah, Amirmohammad Kazemeini
+- **Authors**: [Shaina Raza](https://scholar.google.com/citations?user=chcz7RMAAAAJ&hl=en), [Mizanur Rahman](https://scholar.google.com/citations?hl=en&user=SzJtFg8AAAAJ&view_op=list_works&authuser=1), [Safiullah Kamawal](https://scholar.google.com), [Armin Toroghi](https://scholar.google.com/citations?user=qAj_2MoAAAAJ&hl=en&oi=sra), [Ananya Raval](https://scholar.google.com/citations?user=JfJueNMAAAAJ&hl=en), [Farshad Navah](https://scholar.google.ca/citations?user=hNaei9kAAAAJ&hl=en), [Amirmohammad Kazemeini](https://scholar.google.com/citations?user=XXXXX)
+
 - **Institutions**: Vector Institute, Royal Bank of Canada, Bank of Montreal
 - **Published**: July 19, 2024
 - **arXiv Link**: [arXiv:2407.13699v1](https://arxiv.org/abs/2407.13699)
