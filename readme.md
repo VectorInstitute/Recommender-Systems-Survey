@@ -5,6 +5,7 @@ Welcome to the official repository for the paper **"A Comprehensive Review of Re
 This repository is dedicated to the continuous exploration and dissemination of knowledge on recommender systems (RS). It aims to bridge theory and practice, offering valuable insights for researchers and industry professionals.
 
 ---
+![image](https://github.com/user-attachments/assets/3111db0f-1aa9-49f3-ad4e-68bc57668853)
 
 ## 📄 **Paper Overview**
 - **Authors**: Shaina Raza, Mizanur Rahman, Safiullah Kamawal, Armin Toroghi, Ananya Raval, Farshad Navah, Amirmohammad Kazemeini
@@ -27,10 +28,11 @@ addressing emerging technological and societal trends.
 
 ---
 
+
 ## 📌 **Table of Contents**
 1. [Introduction](#introduction)
 2. [Key Contributions](#key-contributions)
-4. [Monthly Updates](#monthly-updates)
+4. [News](#News)
 5. [Highlighted Papers](#highlighted-papers)
 6. [Challenges in Recommender Systems](#challenges-in-recommender-systems)
 7. [Advanced Techniques](#advanced-techniques)
@@ -39,15 +41,16 @@ addressing emerging technological and societal trends.
 10. [Future Directions](#future-directions)
 
 ---
-## 🔍**Overview **
+## 🔍**Introduction **
 This survey acts as a comprehensive benchmark and cookbook to determine where, when, and why specific recommender system methodologies from academia should be applied across various industry sectors. It covers advancements in recommender systems from 2017 to 2024, and includes 65 pages of in-depth analysis with over 500 references. The document features 11 comprehensive analysis tables and addresses 19 sets of recommender system techniques, ranging from traditional methods to advanced specialized AI techniques, across ten diverse sectors including e-commerce, healthcare, and finance.
 
 
 ## 🔍 **Key Contributions**
 1. Comprehensive review tracing the development of RS from 2017 to 2024.
-2. Thorough examination of different RS types, challenges, datasets, and metrics.
-3. Emphasis on bridging theoretical advancements with real-world applications.
-4. Highlights on emerging trends such as **Explainable AI**, **FATE (Fairness, Accountability, Transparency, Ethics)**, and **Large Language Models**.
+2. Around 500+ high impact papers were reviewed. 
+3. Thorough examination of different RS types, challenges, datasets, and metrics.
+4. Emphasis on bridging theoretical advancements with real-world applications.
+5. Highlights on emerging trends such as **Explainable AI**, **FATE (Fairness, Accountability, Transparency, Ethics)**, and **Large Language Models**.
 
 This paper presents a comprehensive exploration of the development of Recommender Systems (RS), beginning with traditional techniques such as content-based filtering, collaborative filtering, and hybrid approaches. While these traditional RS have been widely implemented, they encounter significant challenges in adapting to dynamic user preferences, providing real-time recommendations, and addressing issues such as the cold start problem and data privacy. To overcome these limitations, there is a clear need for more advanced methods, particularly those involving deep learning.
 
@@ -59,9 +62,9 @@ The overarching goal of this survey is to bridge the gap between theoretical adv
 
 ---
 
-## 📅 **Monthly Updates**
+## 📅 **News**
 Stay updated with the latest research and trends in RS:
-- **December 2024**: Updated the github repo!
+- **August 2024 update**: Paper is under review at Elsevier Computer Science Review (IF = 13.3)!
 
 ---
 
