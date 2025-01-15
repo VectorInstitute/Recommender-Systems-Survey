@@ -130,13 +130,15 @@ Future works in RS must focus on responsible AI practices to minimize biases and
 ## 🌟 **How to Cite**
 If you find our paper helpful, please cite:
 
+```
+
 @article{raza2024comprehensive,
   title={A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice},
   author={Raza, Shaina and Rahman, Mizanur and Kamawal, Safiullah and Toroghi, Armin and Raval, Ananya and Navah, Farshad and Kazemeini, Amirmohammad},
   journal={arXiv preprint arXiv:2407.13699},
   year={2024}
 }
-
+```
 ## 📫 **Contact**
 For queries or collaborations:
 - **Email**: [shaina.raza@vectorinstitute.ai], [mizanur.rahman@rbc.com], [amirmohammad.kazemeini@vectorinstitute.ai]
