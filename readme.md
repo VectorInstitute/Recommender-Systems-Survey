@@ -33,21 +33,20 @@ addressing emerging technological and societal trends.
 ## 📌 **Table of Contents**
 1. [Introduction](#introduction)
 2. [Key Contributions](#key-contributions)
-3. [Key Contributions](#key-contributions) 
-4. [News](#News)
-5. [Highlighted Papers](#highlighted-papers)
-6. [Challenges in Recommender Systems](#challenges-in-recommender-systems)
-7. [Advanced Techniques](#advanced-techniques)
-8. [Impact of the Research](#Impact-of-the-research)
-9. [Limitations](#limitations)
-10. [Future Directions](#future-directions)
+3. [News](#News)
+4. [Highlighted Papers](#highlighted-papers)
+5. [Challenges in Recommender Systems](#challenges-in-recommender-systems)
+6. [Advanced Techniques](#advanced-techniques)
+7. [Impact of the Research](#Impact-of-the-research)
+8. [Limitations](#limitations)
+9. [Future Directions](#future-directions)
 
 ---
 ## 🔍**Introduction**
 This survey acts as a comprehensive benchmark and cookbook to determine where, when, and why specific recommender system methodologies from academia should be applied across various industry sectors. It covers advancements in recommender systems from 2017 to 2024, and includes 65 pages of in-depth analysis with over 500 references. The document features 11 comprehensive analysis tables and addresses 19 sets of recommender system techniques, ranging from traditional methods to advanced specialized AI techniques, across ten diverse sectors including e-commerce, healthcare, and finance.
 
 
-## 🔍 **Key Contributions** {#key-contributions}
+## Key Contributions
 1. Comprehensive review tracing the development of RS from 2017 to 2024.
 2. Around 500+ high impact papers were reviewed. 
 3. Thorough examination of different RS types, challenges, datasets, and metrics.
@@ -64,13 +63,13 @@ The overarching goal of this survey is to bridge the gap between theoretical adv
 
 ---
 
-## 📅 **News**
+## News
 Stay updated with the latest research and trends in RS:
 - **August 2024 update**: Paper is under review at Elsevier Computer Science Review (IF = 13.3)!
 
 ---
 
-## 📝 **Highlighted Papers**
+## Highlighted Papers
 Key papers from our survey:
 - **Collaborative Filtering**: 
 - **Deep Learning**: 
@@ -81,7 +80,7 @@ Explore the **[Complete List](https://arxiv.org/pdf/2407.13699)(#)** of referenc
 
 ---
 
-## 🚀 **Challenges in Recommender Systems**
+## Challenges in Recommender Systems
 Key challenges:
 1. Balancing **personalization** and **privacy**.
 2. Addressing **cold-start** problems.
@@ -90,7 +89,7 @@ Key challenges:
 
 ---
 
-## ⚙️ **Advanced Techniques**
+## Advanced Techniques
 Explore state-of-the-art models:
 - **Deep Learning**:
   - Neural Collaborative Filtering (NCF)
@@ -100,19 +99,19 @@ Explore state-of-the-art models:
 - **Transformer Models**:
   - BERT4Rec, Transformers4Rec
  
-## ⚙️ **Impact of the Research**
+## Impact of the Research
 
 This review profoundly influences future research and industry practices in Recommender Systems (RS). It highlights areas needing further investigation, particularly in advanced modeling techniques Graph neural networks, Knowledge based, LLMs and many recent methods. The detailed summaries and 11 comprehensive analysis tables serve as educational tools and practical guides for industry professionals. By tracing the evolution of RS, the paper offers insights into how theoretical advancements can address real-world challenges in sectors like e-commerce, healthcare, and finance, bridging the gap between theory and practice. 
 
 ---
 
-##**Limitations**
+## Limitations
 
 Despite significant advancements, current Recommender Systems (RS) face critical limitations, including challenges in scalability, adaptability, and computational efficiency, particularly in dynamic and real-time environments. These systems often struggle with integrating diverse data sources, maintaining transparency, and addressing ethical concerns such as bias and privacy issues. Additionally, the heavy reliance on explicit feedback and the substantial computational resources required for deep learning models further complicate their deployment, especially for smaller organizations.
 
 ---
 
-## 🔮 **Future Directions**
+## Future Directions
 The survey emphasizes:
 - Real-time, scalable RS solutions.
 - Integration of **Explainable AI** for user trust.
