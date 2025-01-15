@@ -106,7 +106,7 @@ This review profoundly influences future research and industry practices in Reco
 
 ---
 
-## ⚙️ **Limitations**
+##**Limitations**
 
 Despite significant advancements, current Recommender Systems (RS) face critical limitations, including challenges in scalability, adaptability, and computational efficiency, particularly in dynamic and real-time environments. These systems often struggle with integrating diverse data sources, maintaining transparency, and addressing ethical concerns such as bias and privacy issues. Additionally, the heavy reliance on explicit feedback and the substantial computational resources required for deep learning models further complicate their deployment, especially for smaller organizations.
 
