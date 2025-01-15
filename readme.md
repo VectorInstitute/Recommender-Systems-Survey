@@ -72,6 +72,7 @@ Stay updated with the latest research and trends in RS:
 ## Highlighted Papers
 Key papers from our survey:
 - **Graph-based Recommender Systems**:
+  
 - [06/2019] **KGAT: Knowledge Graph Attention Network for Recommendation** *Xiang Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/1905.07854)]
 - 
 - **Deep Learning**: 
