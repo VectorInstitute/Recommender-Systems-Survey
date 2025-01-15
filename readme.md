@@ -123,9 +123,10 @@ Future works in RS must focus on responsible AI practices to minimize biases and
 
 **Target Audience:**
 
-    **Researchers and Students**: A guide for theory and practice.
-    **Industry Professionals and Engineers**: A cookbook for applying state-of-the-art techniques.
-    **Tech Companies and Startups:** Insights on integrating advanced RS solutions and staying updated on trends.
+- **Researchers and Students**: A guide for theory and practice.
+- **Industry Professionals and Engineers**: A cookbook for applying state-of-the-art techniques.
+- **Tech Companies and Startups**: Insights on integrating advanced RS solutions and staying updated on trends.
+
 
 ## 🌟 **How to Cite**
 If you find our paper helpful, please cite:
