@@ -32,7 +32,7 @@ addressing emerging technological and societal trends.
 
 ## 📌 **Table of Contents**
 1. [Introduction](#introduction)
-2. [Key Contributions](#key-contributions)
+2. [Key Contributions](#key-contributions) 
 4. [News](#News)
 5. [Highlighted Papers](#highlighted-papers)
 6. [Challenges in Recommender Systems](#challenges-in-recommender-systems)
