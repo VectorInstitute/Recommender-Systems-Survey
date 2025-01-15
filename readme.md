@@ -8,7 +8,7 @@ This repository is dedicated to the continuous exploration and dissemination of 
 ![image](https://github.com/user-attachments/assets/3111db0f-1aa9-49f3-ad4e-68bc57668853)
 
 ## 📄 **Paper Overview**
-- **Authors**: [Shaina Raza*](https://scholar.google.com/citations?user=chcz7RMAAAAJ&hl=en), [Mizanur Rahman*](https://scholar.google.com/citations?hl=en&user=SzJtFg8AAAAJ&view_op=list_works&authuser=1), [Safiullah Kamawal](https://scholar.google.com), [Armin Toroghi](https://scholar.google.com/citations?user=qAj_2MoAAAAJ&hl=en&oi=sra), [Ananya Raval](https://scholar.google.com/citations?user=JfJueNMAAAAJ&hl=en), [Farshad Navah](https://scholar.google.ca/citations?user=hNaei9kAAAAJ&hl=en), [Amirmohammad Kazemeini](https://scholar.google.com/citations?user=XXXXX)
+- **Authors**: [Shaina Raza*](https://scholar.google.com/citations?user=chcz7RMAAAAJ&hl=en), [Mizanur Rahman*](https://scholar.google.com/citations?hl=en&user=SzJtFg8AAAAJ&view_op=list_works&authuser=1), [Safiullah Kamawal](https://www.linkedin.com/in/safi-kamawal-a613a2345/?originalSubdomain=ca), [Armin Toroghi](https://scholar.google.com/citations?user=qAj_2MoAAAAJ&hl=en&oi=sra), [Ananya Raval](https://scholar.google.com/citations?user=JfJueNMAAAAJ&hl=en), [Farshad Navah](https://scholar.google.ca/citations?user=hNaei9kAAAAJ&hl=en), [Amirmohammad Kazemeini](https://scholar.google.com/citations?user=XXXXX)
 
 - **Institutions**: Vector Institute, Royal Bank of Canada, Bank of Montreal
 - **Published**: Arxiv- July 19, 2024
