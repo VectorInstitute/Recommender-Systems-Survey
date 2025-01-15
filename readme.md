@@ -32,7 +32,8 @@ addressing emerging technological and societal trends.
 
 ## 📌 **Table of Contents**
 1. [Introduction](#introduction)
-2. [Key Contributions](#key-contributions) 
+2. [Key Contributions](#key-contributions)
+3. [Key Contributions](#key-contributions) 
 4. [News](#News)
 5. [Highlighted Papers](#highlighted-papers)
 6. [Challenges in Recommender Systems](#challenges-in-recommender-systems)
@@ -46,7 +47,7 @@ addressing emerging technological and societal trends.
 This survey acts as a comprehensive benchmark and cookbook to determine where, when, and why specific recommender system methodologies from academia should be applied across various industry sectors. It covers advancements in recommender systems from 2017 to 2024, and includes 65 pages of in-depth analysis with over 500 references. The document features 11 comprehensive analysis tables and addresses 19 sets of recommender system techniques, ranging from traditional methods to advanced specialized AI techniques, across ten diverse sectors including e-commerce, healthcare, and finance.
 
 
-## 🔍 **Key Contributions**
+## 🔍 **Key Contributions** {#key-contributions}
 1. Comprehensive review tracing the development of RS from 2017 to 2024.
 2. Around 500+ high impact papers were reviewed. 
 3. Thorough examination of different RS types, challenges, datasets, and metrics.
