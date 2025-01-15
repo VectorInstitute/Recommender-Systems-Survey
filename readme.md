@@ -71,12 +71,26 @@ Stay updated with the latest research and trends in RS:
 
 ## Highlighted Papers
 Key papers from our survey:
-#### Graph-based Recommender Systems**:
+#### Graph-based Recommender Systems:
   
+- [07/2021] **Dynamic Graph Neural Networks for Sequential Recommendation** *Mengqi Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2104.07368)]
+- [11/2019] **Graph Neural Networks for Social Recommendation** *Wenqi Fan et al. arXiv.* [[paper](https://arxiv.org/pdf/1902.07243)]
 - [06/2019] **KGAT: Knowledge Graph Attention Network for Recommendation** *Xiang Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/1905.07854)]
-- 
-- **Deep Learning**: 
-- **Graph-based RS**:
+
+#### Sequential and Session-based Recommender Systems: 
+- [08/2023] **Knowledge Prompt-tuning for Sequential Recommendation** *Jianyang Zhai et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.08459)]
+- [05/2023] **Frequency Enhanced Hybrid Attention Network for Sequential Recommendation** *Xinyu Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.09184)]
+- [04/2022] **CORE: Simple and Effective Session-based Recommendation within Consistent Representation Space** *Yupeng Hou et al. arXiv.* [[paper](https://arxiv.org/pdf/2204.11067)]
+
+#### Knowledge-based Recommender Systems: 
+- [12/2023] **DiffKG: Knowledge Graph Diffusion Model for Recommendation** *Yangqin Jiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.16890)]
+- [06/2021] **Personalized News Recommendation with Knowledge-aware Interactive Matching** *Tao Qi et al. arXiv.* [[paper](https://arxiv.org/pdf/2104.10083)]
+- [06/2019] **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation** *Yikun Xian et al. arXiv.* [[paper](https://arxiv.org/pdf/1906.05237)]
+
+####  Large Language Model based Recommender Systems: 
+- [03/2024] **RecMind: Large Language Model Powered Agent For Recommendation** *Yancheng Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.14296)]
+- [04/2023] **Prompt Learning for News Recommendation** *Zizhuo Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.05263)]
+- [02/2023] **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)** *Shijie Geng et al. arXiv.* [[paper](https://arxiv.org/pdf/2203.13366)]
 
 Explore the **[Complete List](https://arxiv.org/pdf/2407.13699)(#)** of referenced works.
 
