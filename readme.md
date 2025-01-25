@@ -1,6 +1,7 @@
-# A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice
+<h1 align="center">A Comprehensive Review of Recommender Systems:
+Transitioning from Theory to Practice</h1>
 
-Welcome to the official repository for the paper **"A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice"**.
+Welcome to the official repository for the paper titled **"A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice"**.
 
 This repository is dedicated to the continuous exploration and dissemination of knowledge on recommender systems (RS). It aims to bridge theory and practice, offering valuable insights for researchers and industry professionals.
 
