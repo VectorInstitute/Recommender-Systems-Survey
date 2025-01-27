@@ -5,7 +5,7 @@ Welcome to the official repository for the paper **"A Comprehensive Review of Re
 
 This repository is dedicated to continuously exploring and disseminating knowledge on Recommender Systems. It aims to bridge theory and practice, offering valuable insights for both researchers and industry professionals.
 
-![image](https://github.com/user-attachments/assets/3111db0f-1aa9-49f3-ad4e-68bc57668853)
+<div align=center><img src="recsys_types.PNG" width="100%"/></div>
 
 ## 📌 **Table of Contents**
 1. [Introduction](#introduction)
@@ -106,7 +106,14 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 - [02/2023] **Multi-Modal Self-Supervised Learning for Recommendation** *Wei Wei et. al arXiv* [[paper](https://arxiv.org/abs/2302.10632)]
 - [04/2018] **CoNet: Collaborative Cross Networks for Cross-Domain Recommendation** *Guangneng Hu et. al arXiv* [[paper](https://arxiv.org/abs/1804.06769)]
 
-
+#### Specialized Recommender Systems
+- [2014] **Explicit factor models for explainable recommendation based on phrase-level sentiment analysis** *Yongfeng Zhang et. al SIGIR'14* [[paper](https://dl.acm.org/doi/10.1145/2600428.2609579)]
+- [08/2017] **Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks** *Jun Xiao et. al arXiv* [[paper](https://arxiv.org/abs/1708.04617)]
+- [2018] **A 3NCF: An Adaptive Aspect Attention Model for Rating Prediction** *Zhiyong Cheng et. al ijcai'18* [[paper](https://www.ijcai.org/proceedings/2018/0521.pdf)]
+- [2018] **ANR: Aspect-based Neural Recommender** *Jin Yao Chin et. al CIKM'18* [[paper](https://arxiv.org/pdf/2407.13699)]
+- [2023] **Restaurant survival prediction using customer-generated content: An aspect-based sentiment analysis of online reviews** *Hengyun Li et. al Elsevier* [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0261517722002205)]
+- [2022] **Aspect-based sentiment analysis via affective knowledge enhanced graph convolutional networks** *Bin Liang et. al Knowledge based systems* [[paper](https://dl.acm.org/doi/10.1016/j.knosys.2021.107643)]
+- [2019] **Transparent, Scrutable and Explainable User Models for Personalized Recommendation** *Krisztian Balog et. al SIGIR'19* [[paper](https://dl.acm.org/doi/10.1145/3331184.3331211)]
 
 Explore the **[Complete List](https://arxiv.org/pdf/2407.13699)(#)** of referenced works.
 
@@ -116,8 +123,6 @@ Key challenges:
 2. Addressing **cold-start** problems.
 3. Ensuring **diversity and fairness** in recommendations.
 4. Handling large-scale **real-time data** in **e-commerce**, **healthcare**, and **news**.
-
----
 
 ## Advanced Techniques
 Explore state-of-the-art models:
