@@ -5,7 +5,7 @@ Welcome to the official repository for the paper **"A Comprehensive Review of Re
 
 This repository is dedicated to continuously exploring and disseminating knowledge on Recommender Systems. It aims to bridge theory and practice, offering valuable insights for both researchers and industry professionals.
 
-<div align=center><img src="recsys_types.png" width="100%"/></div>
+<div align=center><img src="recsys_types_2.png" width="100%"/></div>
 
 <br>
 
