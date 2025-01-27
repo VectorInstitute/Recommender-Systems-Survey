@@ -80,16 +80,20 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 
 
 #### Knowledge-based Recommender Systems: 
-- [12/2023] **DiffKG: Knowledge Graph Diffusion Model for Recommendation** *Yangqin Jiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.16890)]
+- [12/2023] **DiffKG: Knowledge Graph Diffusion Model for Recommendation** *Yangqin Jiang et. al arXiv.* [[paper](https://arxiv.org/pdf/2312.16890)]
 - [06/2021] **Personalized News Recommendation with Knowledge-aware Interactive Matching** *Tao Qi et al. arXiv.* [[paper](https://arxiv.org/pdf/2104.10083)]
-- [06/2019] **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation** *Yikun Xian et al. arXiv.* [[paper](https://arxiv.org/pdf/1906.05237)]
+- [06/2019] **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation** *Yikun Xian et. al arXiv.* [[paper](https://arxiv.org/pdf/1906.05237)]
 - [07/2017] **Translation-based Recommendation** *Ruining He et. al arXiv* [[paper](https://arxiv.org/abs/1707.02410)]
+- [07/2018] **node2vec: Scalable Feature Learning for Networks** *Aditya Grover et. al arXiv* [[paper](https://arxiv.org/abs/1607.00653)]
+- [2013] **Translating embeddings for modeling multi-relational data.** *Antoine Bordes et. al NIPS'13* [[paper](https://proceedings.neurips.cc/paper_files/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
+- [2014] **Personalized entity recommendation: a heterogeneous information network approach** *Xiao Yu et. al WSDM'14* [[paper](https://dl.acm.org/doi/10.1145/2556195.2556259)]
 
 
 ####  Large Language Model based Recommender Systems: 
 - [03/2024] **RecMind: Large Language Model Powered Agent For Recommendation** *Yancheng Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.14296)]
 - [04/2023] **Prompt Learning for News Recommendation** *Zizhuo Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.05263)]
 - [02/2023] **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)** *Shijie Geng et al. arXiv.* [[paper](https://arxiv.org/pdf/2203.13366)]
+
 
 Explore the **[Complete List](https://arxiv.org/pdf/2407.13699)(#)** of referenced works.
 
