@@ -7,21 +7,40 @@ This repository is dedicated to continuously exploring and disseminating knowled
 
 <div align=center><img src="recsys_types.png" width="100%"/></div>
 
-## 📌 **Table of Contents**
+<br>
+
+>**Authors**: [Shaina Raza*](https://scholar.google.com/citations?user=chcz7RMAAAAJ&hl=en), [Mizanur Rahman*](https://scholar.google.com/citations?hl=en&user=SzJtFg8AAAAJ&view_op=list_works&authuser=1), [Safiullah Kamawal](https://www.linkedin.com/in/safi-kamawal-a613a2345/?originalSubdomain=ca), [Armin Toroghi](https://scholar.google.com/citations?user=qAj_2MoAAAAJ&hl=en&oi=sra), [Ananya Raval](https://scholar.google.com/citations?user=JfJueNMAAAAJ&hl=en), [Farshad Navah](https://scholar.google.ca/citations?user=hNaei9kAAAAJ&hl=en), [Amirmohammad Kazemeini](https://scholar.google.com/citations?user=XXXXX) <br>
+>**Institutions**: Vector Institute, Royal Bank of Canada, Bank of Montreal <br>
+>**Published**: July 19, 2024 <br>
+>**arXiv Link**: [arXiv:2407.13699v1](https://arxiv.org/abs/2407.13699) <br>
+
+If you find our paper helpful, please cite:
+
+```
+@article{raza2024comprehensive,
+  title={A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice},
+  author={Raza, Shaina and Rahman, Mizanur and Kamawal, Safiullah and Toroghi, Armin and Raval, Ananya and Navah, Farshad and Kazemeini, Amirmohammad},
+  journal={arXiv preprint arXiv:2407.13699},
+  year={2024}
+}
+```
+
+## 🔔 News
+- 🔥 **[08/2024]**: Paper is under review at Elsevier Computer Science Review (IF = 13.3)
+
+## 📌**Table of Contents**
 1. [Introduction](#introduction)
 2. [Key Contributions](#key-contributions)
 3. [Paper Summary](#summary)
-4. [News](#news)
-5. [Highlighted Papers](#highlighted-papers)
-6. [Challenges in Recommender Systems](#challenges-in-recommender-systems)
-7. [Advanced Techniques](#advanced-techniques)
-8. [Impact of the Research](#Impact-of-the-research)
-9. [Limitations](#limitations)
-10. [Future Directions](#future-directions)
+4. [Highlighted Papers](#highlighted-papers)
+5. [Challenges in Recommender Systems](#challenges-in-recommender-systems)
+6. [Advanced Techniques](#advanced-techniques)
+7. [Impact of the Research](#Impact-of-the-research)
+8. [Limitations](#limitations)
+9. [Future Directions](#future-directions)
 
 ## 🔍**Introduction**
 This survey acts as a comprehensive benchmark and cookbook to determine where, when, and why specific recommender system methodologies from academia should be applied across various industry sectors. It covers advancements in recommender systems from 2017 to 2024, and includes 65 pages of in-depth analysis with over 500 references. The document features 11 comprehensive analysis tables and addresses 19 sets of recommender system techniques, ranging from traditional methods to advanced specialized AI techniques, across ten diverse sectors including e-commerce, healthcare, and finance.
-
 
 ## Key Contributions
 1. Comprehensive review tracing the development of RS from 2017 to 2024.
@@ -38,9 +57,6 @@ In response to these challenges, the paper transitions to discussing advanced me
 Building on the discussion of deep learning, the paper delves into six advanced modeling techniques, including graph-based models, reinforcement learning, and large language models. Additionally, it examines six specialized RS areas, such as context-aware, review-based, and fairness-aware systems. These specialized RS are tailored to address unique user preferences and situations across various domains. Unlike general RS, these systems focus on specialized functions and targeted recommendations, utilizing advanced techniques to deliver context-aware, review-based, aspect-based, explainable, and fairness-focused recommendations.
 
 The overarching goal of this survey is to bridge the gap between theoretical advancements and practical applications in RS. By addressing challenges across 10 diverse sectors, including e-commerce, healthcare, and finance, the paper emphasizes the importance of developing scalable, real-time, and trustworthy RS solutions. Furthermore, the survey highlights how these advancements are already being applied in industry settings to tackle domain-specific challenges. The insights provided are intended to guide industry professionals in optimizing RS deployment and to inspire future research, particularly in addressing the emerging technological and societal trends that will shape the future of Recommender Systems.
-
-## News
-- **August 2024**: Paper is under review at Elsevier Computer Science Review (IF = 13.3) 🎉
 
 ## Highlighted Papers
 
@@ -162,19 +178,6 @@ Future works in RS must focus on responsible AI practices to minimize biases and
 - **Industry Professionals and Engineers**: A cookbook for applying state-of-the-art techniques.
 - **Tech Companies and Startups**: Insights on integrating advanced RS solutions and staying updated on trends.
 
-
-## 🌟 **How to Cite**
-If you find our paper helpful, please cite:
-
-```
-
-@article{raza2024comprehensive,
-  title={A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice},
-  author={Raza, Shaina and Rahman, Mizanur and Kamawal, Safiullah and Toroghi, Armin and Raval, Ananya and Navah, Farshad and Kazemeini, Amirmohammad},
-  journal={arXiv preprint arXiv:2407.13699},
-  year={2024}
-}
-```
 ## 📫 **Contact**
 For queries or collaborations:
 - **Email**: [shaina.raza@vectorinstitute.ai], [mizanur.rahman@rbc.com], [amirmohammad.kazemeini@vectorinstitute.ai]
