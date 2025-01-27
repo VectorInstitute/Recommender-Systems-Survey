@@ -45,6 +45,19 @@ Stay updated with the latest research and trends in RS:
 
 ## Highlighted Papers
 
+#### Foundational Recommender Systems:
+
+- [01/2013] **Probabilistic Models for Unified Collaborative
+and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popescul et. al. arXiv.* [[paper]](https://arxiv.org/abs/1301.2303)
+- [01/2018] **Joint Deep Modeling of Users and Items Using Reviews for Recommendation** *Lei Zheng et. al arXiv* [[paper](https://arxiv.org/abs/1701.04783)]
+- [02/2018] **Content-Based Citation Recommendation** *Chandra Bhagavatula et. al arXiv* [[paper](https://arxiv.org/abs/1802.08301)]
+- [1999] **An algorithmic framework for performing collaborative filtering** *Jonathan L. Herlocker et. al SIGIR'99* [[paper](https://doi.org/10.1145/312624.312682)]
+- [2001] **Item-based collaborative filtering recommendation algorithms** *Badrul Sarwar et. al KDD'99* [[paper](https://doi.org/10.1145/371920.372071)]
+- [2012] **Factorization machines with libfm** *S Rendle TIST'12* [[paper](https://doi.org/10.1145/2168752.2168771)]
+- [06/2016] **Wide & Deep Learning for Recommender Systems** *Heng-Tze Cheng et. al arXiv* [[paper](https://arxiv.org/abs/1606.07792)]
+- [08/2017] **Neural Factorization Machines for Sparse Predictive Analytics** *Xiangnan He et. al arXiv* [[paper](https://arxiv.org/abs/1708.05027)]
+- [03/2017] **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction** *Huifeng Guo et. al arXiv* [[paper](https://arxiv.org/abs/1703.04247)]
+
 #### Graph-based Recommender Systems:
   
 - [07/2021] **Dynamic Graph Neural Networks for Sequential Recommendation** *Mengqi Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2104.07368)]
