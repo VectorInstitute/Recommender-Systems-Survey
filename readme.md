@@ -63,6 +63,10 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 - [07/2021] **Dynamic Graph Neural Networks for Sequential Recommendation** *Mengqi Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2104.07368)]
 - [11/2019] **Graph Neural Networks for Social Recommendation** *Wenqi Fan et al. arXiv.* [[paper](https://arxiv.org/pdf/1902.07243)]
 - [06/2019] **KGAT: Knowledge Graph Attention Network for Recommendation** *Xiang Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/1905.07854)]
+- [06/2017] **Graph Convolutional Matrix Completion** *Rianne van den Berg et. al arXiv* [[paper](https://arxiv.org/abs/1706.02263)]
+- [02/2020] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** *Xiangnan He et. al arXiv* [[paper](https://arxiv.org/abs/2002.02126)]
+- [05/2019] **Neural Graph Collaborative Filtering** *Xiang Wang et. al arXiv* [[paper](https://arxiv.org/abs/1905.08108)]
+
 
 #### Sequential and Session-based Recommender Systems: 
 - [08/2023] **Knowledge Prompt-tuning for Sequential Recommendation** *Jianyang Zhai et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.08459)]
