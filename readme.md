@@ -100,6 +100,13 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 - [03/2022] **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)** *Shijie Geng et. al arXiv* [[paper](https://arxiv.org/abs/2203.13366)]
 - [05/2023] **Large Language Models are Zero-Shot Rankers for Recommender Systems** *Yupeng Hou et. al arXiv* [[paper](https://arxiv.org/abs/2305.08845)]
 
+#### Multimodal Recommender Systems
+- [10/2015] **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** *Ruining He et. al arXiv* [[paper](https://arxiv.org/abs/1510.01784)]
+- [2017] **Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention** *Jingyuan Chen et. al SIGIR'17* [[paper](https://dl.acm.org/doi/10.1145/3077136.3080797)]
+- [02/2023] **Multi-Modal Self-Supervised Learning for Recommendation** *Wei Wei et. al arXiv* [[paper](https://arxiv.org/abs/2302.10632)]
+- [04/2018] **CoNet: Collaborative Cross Networks for Cross-Domain Recommendation** *Guangneng Hu et. al arXiv* [[paper](https://arxiv.org/abs/1804.06769)]
+
+
 
 Explore the **[Complete List](https://arxiv.org/pdf/2407.13699)(#)** of referenced works.
 
