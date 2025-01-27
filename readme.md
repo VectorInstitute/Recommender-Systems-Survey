@@ -40,8 +40,7 @@ Building on the discussion of deep learning, the paper delves into six advanced 
 The overarching goal of this survey is to bridge the gap between theoretical advancements and practical applications in RS. By addressing challenges across 10 diverse sectors, including e-commerce, healthcare, and finance, the paper emphasizes the importance of developing scalable, real-time, and trustworthy RS solutions. Furthermore, the survey highlights how these advancements are already being applied in industry settings to tackle domain-specific challenges. The insights provided are intended to guide industry professionals in optimizing RS deployment and to inspire future research, particularly in addressing the emerging technological and societal trends that will shape the future of Recommender Systems.
 
 ## News
-Stay updated with the latest research and trends in RS:
-- **August 2024**: Paper is under review at Elsevier Computer Science Review (IF = 13.3)!
+- **August 2024**: Paper is under review at Elsevier Computer Science Review (IF = 13.3) 🎉
 
 ## Highlighted Papers
 
