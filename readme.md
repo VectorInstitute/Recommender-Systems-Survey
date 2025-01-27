@@ -67,16 +67,24 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 - [02/2020] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** *Xiangnan He et. al arXiv* [[paper](https://arxiv.org/abs/2002.02126)]
 - [05/2019] **Neural Graph Collaborative Filtering** *Xiang Wang et. al arXiv* [[paper](https://arxiv.org/abs/1905.08108)]
 
-
 #### Sequential and Session-based Recommender Systems: 
 - [08/2023] **Knowledge Prompt-tuning for Sequential Recommendation** *Jianyang Zhai et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.08459)]
 - [05/2023] **Frequency Enhanced Hybrid Attention Network for Sequential Recommendation** *Xinyu Du et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.09184)]
 - [04/2022] **CORE: Simple and Effective Session-based Recommendation within Consistent Representation Space** *Yupeng Hou et al. arXiv.* [[paper](https://arxiv.org/pdf/2204.11067)]
+- [04/2019] **BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer** *Fei Sun et. al arXiv* [[paper](https://arxiv.org/abs/1904.06690)]
+- [11/2015] **Session-based Recommendations with Recurrent Neural Networks** *Balázs Hidasi et. al arXiv* [[paper](https://arxiv.org/abs/1511.06939)]
+- [07/2017] **Translation-based Recommendation** *Ruining He et. al arXiv* [[paper](https://arxiv.org/abs/1707.02410)]
+- [09/2018] **Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding** *Jiaxi Tang et. al arXiv* [[paper](https://arxiv.org/abs/1809.07426)]
+- [08/2018] **Self-Attentive Sequential Recommendation** *Wang-Cheng Kang et. al arXiv* [[paper](https://arxiv.org/abs/1808.09781)]
+- [11/2018] **Session-based Recommendation with Graph Neural Networks** *Shu Wu et. al arXiv* [[paper](https://arxiv.org/abs/1811.00855)]
+
 
 #### Knowledge-based Recommender Systems: 
 - [12/2023] **DiffKG: Knowledge Graph Diffusion Model for Recommendation** *Yangqin Jiang et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.16890)]
 - [06/2021] **Personalized News Recommendation with Knowledge-aware Interactive Matching** *Tao Qi et al. arXiv.* [[paper](https://arxiv.org/pdf/2104.10083)]
 - [06/2019] **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation** *Yikun Xian et al. arXiv.* [[paper](https://arxiv.org/pdf/1906.05237)]
+- [07/2017] **Translation-based Recommendation** *Ruining He et. al arXiv* [[paper](https://arxiv.org/abs/1707.02410)]
+
 
 ####  Large Language Model based Recommender Systems: 
 - [03/2024] **RecMind: Large Language Model Powered Agent For Recommendation** *Yancheng Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.14296)]
