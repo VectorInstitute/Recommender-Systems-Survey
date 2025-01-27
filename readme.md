@@ -96,6 +96,9 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 - [03/2024] **RecMind: Large Language Model Powered Agent For Recommendation** *Yancheng Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.14296)]
 - [04/2023] **Prompt Learning for News Recommendation** *Zizhuo Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.05263)]
 - [02/2023] **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)** *Shijie Geng et al. arXiv.* [[paper](https://arxiv.org/pdf/2203.13366)]
+- [07/2023] **Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences** *Scott Sanner et. al arXiv* [[paper](https://arxiv.org/abs/2307.14225)]
+- [03/2022] **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)** *Shijie Geng et. al arXiv* [[paper](https://arxiv.org/abs/2203.13366)]
+- [05/2023] **Large Language Models are Zero-Shot Rankers for Recommender Systems** *Yupeng Hou et. al arXiv* [[paper](https://arxiv.org/abs/2305.08845)]
 
 
 Explore the **[Complete List](https://arxiv.org/pdf/2407.13699)(#)** of referenced works.
