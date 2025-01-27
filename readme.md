@@ -154,13 +154,9 @@ Explore state-of-the-art models:
 
 This review profoundly influences future research and industry practices in Recommender Systems (RS). It highlights areas needing further investigation, particularly in advanced modeling techniques Graph neural networks, Knowledge based, LLMs and many recent methods. The detailed summaries and 11 comprehensive analysis tables serve as educational tools and practical guides for industry professionals. By tracing the evolution of RS, the paper offers insights into how theoretical advancements can address real-world challenges in sectors like e-commerce, healthcare, and finance, bridging the gap between theory and practice. 
 
----
-
 ## Limitations
 
 Despite significant advancements, current Recommender Systems (RS) face critical limitations, including challenges in scalability, adaptability, and computational efficiency, particularly in dynamic and real-time environments. These systems often struggle with integrating diverse data sources, maintaining transparency, and addressing ethical concerns such as bias and privacy issues. Additionally, the heavy reliance on explicit feedback and the substantial computational resources required for deep learning models further complicate their deployment, especially for smaller organizations.
-
----
 
 ## Future Directions
 The survey emphasizes:
@@ -182,8 +178,6 @@ Future works in RS must focus on responsible AI practices to minimize biases and
 For queries or collaborations:
 - **Email**: [shaina.raza@vectorinstitute.ai], [mizanur.rahman@rbc.com], [amirmohammad.kazemeini@vectorinstitute.ai]
 - **Contributions**: Feel free to submit a pull request for updates or suggestions!
-
----
 
 ## 🎉 **Contributions and Feedback**
 We welcome your feedback and contributions to make this repository a valuable resource for the RS community. Follow for updates!
