@@ -88,6 +88,9 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 - [2013] **Translating embeddings for modeling multi-relational data.** *Antoine Bordes et. al NIPS'13* [[paper](https://proceedings.neurips.cc/paper_files/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
 - [2014] **Personalized entity recommendation: a heterogeneous information network approach** *Xiao Yu et. al WSDM'14* [[paper](https://dl.acm.org/doi/10.1145/2556195.2556259)]
 
+####  Reinforcement Learning-based Recommender Systems
+- [12/2018] **Generative Adversarial User Model for Reinforcement Learning Based Recommendation System** *Xinshi Chen et. al arXiv* [[paper](https://arxiv.org/abs/1812.10613)]
+- [2018] **DRN: A Deep Reinforcement Learning Framework for News Recommendation** *Guanjie Zheng et. al WWW'18* [[paper](https://dl.acm.org/doi/fullHtml/10.1145/3178876.3185994)]
 
 ####  Large Language Model based Recommender Systems: 
 - [03/2024] **RecMind: Large Language Model Powered Agent For Recommendation** *Yancheng Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.14296)]
