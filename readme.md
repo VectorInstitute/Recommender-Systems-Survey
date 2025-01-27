@@ -56,6 +56,7 @@ and Content-Based Recommendation in Sparse-Data Environments** *Alexandrin Popes
 - [06/2016] **Wide & Deep Learning for Recommender Systems** *Heng-Tze Cheng et. al arXiv* [[paper](https://arxiv.org/abs/1606.07792)]
 - [08/2017] **Neural Factorization Machines for Sparse Predictive Analytics** *Xiangnan He et. al arXiv* [[paper](https://arxiv.org/abs/1708.05027)]
 - [03/2017] **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction** *Huifeng Guo et. al arXiv* [[paper](https://arxiv.org/abs/1703.04247)]
+- [08/2009] **Matrix Factorization Techniques for Recommender Systems** *Yehuda Koren et. al IEEE Computer Society Press* [[paper](https://doi.org/10.1109/MC.2009.26)]
 
 #### Graph-based Recommender Systems:
   
