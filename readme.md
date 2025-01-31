@@ -10,7 +10,6 @@ This repository is dedicated to continuously exploring and disseminating knowled
 <br>
 
 >**Authors**: [Shaina Raza*](https://scholar.google.com/citations?user=chcz7RMAAAAJ&hl=en), [Mizanur Rahman*](https://scholar.google.com/citations?hl=en&user=SzJtFg8AAAAJ&view_op=list_works&authuser=1), [Safiullah Kamawal](https://www.linkedin.com/in/safi-kamawal-a613a2345/?originalSubdomain=ca), [Armin Toroghi](https://scholar.google.com/citations?user=qAj_2MoAAAAJ&hl=en&oi=sra), [Ananya Raval](https://scholar.google.com/citations?user=JfJueNMAAAAJ&hl=en), [Farshad Navah](https://scholar.google.ca/citations?user=hNaei9kAAAAJ&hl=en), [Amirmohammad Kazemeini](https://scholar.google.com/citations?user=XXXXX) <br>
->**Institutions**: Vector Institute, Royal Bank of Canada, Bank of Montreal <br>
 >**Published**: July 19, 2024 <br>
 >**arXiv Link**: [arXiv:2407.13699v1](https://arxiv.org/abs/2407.13699) <br>
 
@@ -176,7 +175,7 @@ Future works in RS must focus on responsible AI practices to minimize biases and
 
 ## 📫 **Contact**
 For queries or collaborations:
-- **Email**: [shaina.raza@vectorinstitute.ai], [mizanur.rahman@rbc.com], [amirmohammad.kazemeini@vectorinstitute.ai]
+- **Email**: [shaina.raza@vectorinstitute.ai], [amirmohammad.kazemeini@vectorinstitute.ai]
 - **Contributions**: Feel free to submit a pull request for updates or suggestions!
 
 ## 🎉 **Contributions and Feedback**
